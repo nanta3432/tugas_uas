@@ -1,0 +1,109 @@
+.header{
+    background-color: rgb(156, 146, 242);
+    padding: 3rem;
+}
+.a-header{
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+}
+.a-header:hover{
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+    background-color: honeydew;
+}
+.body{
+    background-color: rgb(232, 232, 232);
+}
+.end{
+    border:none; 
+    background:pink; 
+    padding:3rem; 
+    margin-top:3rem
+}
+.end:hover{
+    border:none; 
+    background:rgb(205, 159, 166); 
+    padding:3rem; 
+    margin-top:3rem
+}
+.konten{
+    margin: 8rem 5rem;
+    width: 80%;
+}
+.side-bar{
+    background-color: white;
+    float: right;
+    width: 20%;
+    height: 100rem;
+    padding: 2rem;
+}
+.side-link{
+    text-decoration: none;
+    color: gray;
+    padding:2rem ;
+}
+.tdk{
+    padding:2rem;
+    background-color: rgb(255, 163, 194);
+}
+
+.btn{
+    background-color: rebeccapurple;
+    padding: .3rem;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height: 2.5rem;
+    margin:1rem 0;
+    text-decoration: none;
+    border: none;
+    color: rgb(246, 233, 209);
+}
+.btn:hover{
+    background-color: rgb(112, 81, 142);
+    padding: .3rem;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height: 2.5rem;
+    margin:1rem 0;
+    text-decoration: none;
+    border: none;
+    color: white
+}
+
+.btn-res{
+    background-color: rgb(255, 0, 162);
+    padding: .75rem;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height: 2.5rem;
+    margin:1rem 0;
+    border: none;
+    color: rgb(246, 233, 209);
+    text-decoration: none;
+}
+.btn-res:hover{
+    background-color: rgb(206, 7, 133);
+    padding: .75rem;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height: 2.5rem;
+    margin:1rem 0;
+    border: none;
+    color: white;
+    text-decoration: none;
+}
+
+.form-control{
+    border-width: 1px;
+    border-color: rgb(165, 165, 165);
+    height: 1.8rem;
+    border-radius: .5rem;
+}
+.fk:focus{
+    outline: rgb(147, 147, 247);
+    border:solid rgb(189, 189, 240);
+    box-shadow: 2px 2px 2px 2px rgb(161, 155, 183);
+    border-radius: .5rem;
+}
